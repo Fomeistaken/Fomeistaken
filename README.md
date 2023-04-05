@@ -11,6 +11,8 @@
 
 - 👦 My pronouns are **He/Him**
 
+- 🏫 I am still in year 10 of school, that's why I may not be active on GitHub
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/fomewasshort" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="fomewasshort" height="30" width="40" /></a>
