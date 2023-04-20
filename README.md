@@ -32,6 +32,7 @@
 - [How Python is Changing the Landscape of AI Development](https://fomewastaken.medium.com/how-python-is-changing-the-landscape-of-ai-development-d4c83e44e984?source=rss-6d45b517f5d------2)
 <!-- BLOG-POST-LIST:END -->
 
+# Cool Stats
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=fomeistaken&show_icons=true&locale=en&layout=compact" alt="fomeistaken" />
 
 <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api?username=fomeistaken&show_icons=true&theme=radical)" alt="fomeistaken" />
