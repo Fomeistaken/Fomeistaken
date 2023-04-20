@@ -13,9 +13,6 @@
 
 - 🏫 I am still in year 10 of school, that's why I may not be active on GitHub
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=fomeistaken&show_icons=true&locale=en&layout=compact" alt="fomeistaken" />
-
-<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api?username=fomeistaken&show_icons=true&theme=radical)" alt="fomeistaken" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/fomewasshort" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="fomewasshort" height="30" width="40" /></a>
@@ -33,3 +30,7 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=fomeistaken&show_icons=true&locale=en&layout=compact" alt="fomeistaken" />
+
+<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api?username=fomeistaken&show_icons=true&theme=radical)" alt="fomeistaken" />
