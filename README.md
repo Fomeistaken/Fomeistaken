@@ -29,3 +29,7 @@
 
 <p><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=fomeistaken&show_icons=true&theme=radical)
 " alt="fomeistaken" /></p>
+
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
