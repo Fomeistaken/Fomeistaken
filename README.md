@@ -27,6 +27,7 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Next.js 14: A Quantum Leap in Frontend Development](https://fomewastaken.medium.com/next-js-14-a-quantum-leap-in-frontend-development-d41b7d2f2f9d?source=rss-6d45b517f5d------2)
 - [How Python is Changing the Landscape of AI Development](https://fomewastaken.medium.com/how-python-is-changing-the-landscape-of-ai-development-d4c83e44e984?source=rss-6d45b517f5d------2)
 <!-- BLOG-POST-LIST:END -->
 
