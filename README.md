@@ -9,8 +9,6 @@
 
 - ⚡ Fun fact **I am very dumb**
 
-- 👦 My pronouns are **He/Him**
-
 - 🏫 I am still in year 10 of school, that's why I may not be active on GitHub
 
 <h3 align="left">Connect with me:</h3>
