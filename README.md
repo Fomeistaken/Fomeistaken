@@ -1,6 +1,7 @@
 [![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding.jpg)](https://farhanahmad15.github.io/Portfolio/)
 
-<h1 align="center">👋 Hello there, I'm Farhan Ahmad</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=800&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+Hello+there%2C+I'm+Farhan+Ahmad)](https://git.io/typing-svg)
+
 <h3 align="center">17 year old coding enthusiast 🔥</h3>
 
 - 👨‍💻 All of my projects are available at [github.com/farhanahmad15](github.com/farhanahmad15)
